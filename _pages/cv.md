@@ -18,12 +18,14 @@ Education
 
 Skills
 ======
-| Skill group | Details |
-| --- | --- |
-| Programming | C, C++, C#, Arduino |
-| Tools | Git, GitHub, Proteus, Visual Studio |
-| IoT | LM35 temperature sensing, serial communication, sensor monitoring |
-| Soft skills | Technical reporting, workflow documentation, collaborative branching |
+
+<table>
+  <tr><th>Skill group</th><th>Details</th></tr>
+  <tr><td>Programming</td><td>C, C++, C#, Arduino</td></tr>
+  <tr><td>Tools</td><td>Git, GitHub, Proteus, Visual Studio</td></tr>
+  <tr><td>IoT</td><td>LM35 temperature sensing, serial communication, sensor monitoring</td></tr>
+  <tr><td>Soft skills</td><td>Technical reporting, workflow documentation, collaborative branching</td></tr>
+</table>
 
 Projects
 ======
