@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Arduino LM35 Temperature Monitor"
+excerpt: "Arduino firmware, Windows charting app, and Proteus simulation for LM35 monitoring<br/><img src='/images/profile.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This portfolio item presents my coursework project for monitoring LM35 temperature sensors with Arduino.
+
+- Repository: [Arduino_LM35_TempMonitor](https://github.com/huyhuyhuy1999/Arduino_LM35_TempMonitor)
+- Key topics: Git workflow, GitHub collaboration, JSON serial output, C# charting, Proteus simulation
+- Outcome: A structured repo that combines firmware, PC application code, and simulation assets in one reproducible project
